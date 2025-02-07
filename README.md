@@ -1,16 +1,17 @@
-## Hi there 👋
+<h1 align="center">
+  Hi, i❜m Rukhsar 🌷
+</h1>
 
-<!--
-**Rukhsarkh/Rukhsarkh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">
+  <b>❝ Nah ! i’d Win, iA ❞</b>
+</h1>
 
-Here are some ideas to get you started:
+<h2 align="center">⚒️ <b>Languages-Frameworks-Tools</b> ⚒️</h2>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,tailwind,git" />
+    <img src="https://skillicons.dev/icons?i=nodejs,java,javascript,express,firebase,mongodb,mysql" /><br>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats    
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rukhsarkh&layout=compact&theme=dark) 
+![GitHub Streak](https://streak-stats.demolab.com?user=Rukhsarkh&theme=dark&hide_border=true)

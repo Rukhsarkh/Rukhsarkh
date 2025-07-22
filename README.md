@@ -1,13 +1,3 @@
-<h1 align="center">🚀 TripGO - Real Estate App With NLP integration</h1>
-
-<p align="center">
-  <b>Explore properties, create listings, post reviews, and manage your accounts</b><br><br>
-  <a href="https://supertripdotcom.onrender.com/">🌐 Live Demo</a> • 
-  <a href="https://github.com/Rukhsarkh/TripGo-MERN-Real-Estate">💻 Code, Project Case study, Best Practices</a> • 
-  <a href="https://html-temp-blond.vercel.app/">🎥 Watch Demo Video</a>
-</p>
-
-<hr/>
 <h1 align="center">
   Hi, i❜m Rukhsar 🌷
 </h1>
@@ -15,8 +5,19 @@
 <hr/>
 
 <h1 align="center">
-  <b>❝ Nah ! i’d Win, iA ❞</b>
+  <b>❝ Nah ! i’d Win Eyyy hahahah, iA ❞</b>
 </h1>
+
+<hr/>
+
+<h2 align="center">⚡ PROOF OF WORK⚡</h2>
+<p align="center">🚀 TripGO - Real Estate App With NLP integration - Explore properties, create listings, post reviews, and manage your accounts</p>
+
+<p align="center">
+  <a href="https://supertripdotcom.onrender.com/">🌐 Live Demo</a> • 
+  <a href="https://github.com/Rukhsarkh/TripGo-MERN-Real-Estate">💻 Code, Project Case study, Best Practices</a> • 
+  <a href="https://html-temp-blond.vercel.app/">🎥 Watch Demo Video</a>
+</p>
 
 <hr/>
 

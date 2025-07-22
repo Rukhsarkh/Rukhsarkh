@@ -3,7 +3,7 @@
 <p align="center">
   <b>Explore properties, create listings, post reviews, and manage your accounts</b><br><br>
   <a href="https://supertripdotcom.onrender.com/">🌐 Live Demo</a> • 
-  <a href="https://github.com/Rukhsarkh/TripGo-MERN-Real-Estate">💻 Repo, Other Details, Best practices</a> • 
+  <a href="https://github.com/Rukhsarkh/TripGo-MERN-Real-Estate">💻 Code, Project Case study, Best Practices</a> • 
   <a href="https://html-temp-blond.vercel.app/">🎥 Watch Demo Video</a>
 </p>
 

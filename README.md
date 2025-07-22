@@ -1,3 +1,13 @@
+<h1 align="center">🚀 TripGO - Real Estate App With NLP integration</h1>
+
+<p align="center">
+  <b>Explore properties, create listings, post reviews, and manage your accounts</b><br><br>
+  <a href="https://supertripdotcom.onrender.com/">🌐 Live Demo</a> • 
+  <a href="https://github.com/Rukhsarkh/TripGo-MERN-Real-Estate">💻 Repo, Other Details, Best practices</a> • 
+  <a href="https://html-temp-blond.vercel.app/">🎥 Watch Demo Video</a>
+</p>
+
+<hr/>
 <h1 align="center">
   Hi, i❜m Rukhsar 🌷
 </h1>

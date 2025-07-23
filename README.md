@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi, i❜m Rukhsar 🌷
+  Heyy ! This is Rukh 🌷
 </h1>
 
 <hr/>
